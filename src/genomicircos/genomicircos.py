@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Visualize genomic data using circos plot.
+"""
+
 from __future__ import annotations
 import matplotlib.pylab as plt
 
